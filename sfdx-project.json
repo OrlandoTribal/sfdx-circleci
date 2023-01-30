@@ -6,6 +6,6 @@
     }
   ],
   "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sfdcLoginUrl": "https://tribal01--dtqa.sandbox.my.salesforce.com",
   "sourceApiVersion": "40.0"
 }
